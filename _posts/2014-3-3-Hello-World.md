@@ -3,8 +3,8 @@ layout: post
 title: Hello World!
 ---
 
-That's all folks!
+Coming soon!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-Seriously...
+#![_config.yml]({{ site.baseurl }}/images/config.png)
+#
+#Seriously...
