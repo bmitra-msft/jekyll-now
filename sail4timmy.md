@@ -1,6 +1,6 @@
 ---
 layout: page
-title: #Sail4Timmy
+title: \#sail4timmy
 permalink: /sail4timmy/
 ---
 
